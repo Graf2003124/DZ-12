@@ -8,6 +8,7 @@ public class App {
         System.out.println(voinaIMir);
         System.out.println(pismoKJenjene);
         System.out.println();
+        System.out.println();
     }
 
 }
