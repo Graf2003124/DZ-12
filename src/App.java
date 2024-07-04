@@ -7,5 +7,7 @@ public class App {
         voinaIMir.setYearOfPublishing(1867);
         System.out.println(voinaIMir);
         System.out.println(pismoKJenjene);
+        System.out.println();
     }
+
 }
